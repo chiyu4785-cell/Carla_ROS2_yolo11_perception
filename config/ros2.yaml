@@ -1,0 +1,5 @@
+yolo:
+  model_path: "models/yolo11n.pt"
+  confidence_threshold: 0.25
+  classes_to_detect: ["car", "person"]
+

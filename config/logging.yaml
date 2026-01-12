@@ -1,0 +1,5 @@
+ros2:
+  topic_name: "/camera/image_raw"
+  qos_depth: 10
+  spin_timeout_sec: 0.01
+

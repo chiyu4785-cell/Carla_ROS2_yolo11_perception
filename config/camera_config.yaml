@@ -1,0 +1,26 @@
+camera:
+  width: 960
+  height: 540
+  fov: 90
+  location:
+    x: 1.5
+    y: 0.0
+    z: 2.4
+  rotation:
+    pitch: -5
+    yaw: 0
+    roll: 0
+
+depth_camera:
+  width: 960
+  height: 540
+  fov: 90
+  location:
+    x: 1.5
+    y: 0.0
+    z: 2.3
+  rotation:
+    pitch: -5
+    yaw: 0
+    roll: 0
+

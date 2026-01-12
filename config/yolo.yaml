@@ -1,0 +1,6 @@
+logging:
+  enable: true
+  log_folder: "log"
+  save_images: true
+  save_pose_file: "log/pose.txt"
+
